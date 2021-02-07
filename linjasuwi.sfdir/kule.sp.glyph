@@ -1,8 +1,8 @@
 StartChar: kule.sp
 Encoding: 286 60958 60
 Width: 690
-Flags: W
-HStem: 255.082 50<70.223 95.0254 595.025 619.828>
+Flags: HW
+HStem: 255.082 50<70.2231 95.0255 595.025 619.828>
 LayerCount: 3
 Fore
 SplineSet

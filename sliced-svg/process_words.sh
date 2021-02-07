@@ -4,7 +4,7 @@ set -e
 out_dir=output
 
 doc_width=10
-num_entries=$(( $doc_width * 20 ))
+num_entries=$(( $doc_width * 22 ))
 
 tile_width=20
 

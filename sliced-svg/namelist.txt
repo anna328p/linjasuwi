@@ -206,5 +206,15 @@ apostrophe
 underscore
 vertical-bar
 dollar
+mije-alt
+meli-alt
+nata
+kijosin
+mamasi
+yupekosi
+unu
+cartouche
+empty
+empty
 empty
 empty
