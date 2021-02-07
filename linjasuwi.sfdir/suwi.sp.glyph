@@ -1,9 +1,9 @@
 StartChar: suwi.sp
 Encoding: 357 61029 131
 Width: 691
-Flags: HW
-HStem: 122.996 100<302.762 384.313>
-VStem: 293.538 100<132.221 213.772>
+Flags: W
+HStem: 122.996 100<302.763 384.314>
+VStem: 293.539 100<132.221 213.772>
 LayerCount: 3
 Fore
 SplineSet

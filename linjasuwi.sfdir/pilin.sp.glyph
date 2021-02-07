@@ -1,7 +1,7 @@
 StartChar: pilin.sp
 Encoding: 333 61005 107
 Width: 751
-Flags: HW
+Flags: W
 HStem: 557.811 50<163.475 266.571 484.686 587.78>
 VStem: 77 50<335.037 518.798> 624.255 50<335.037 518.799>
 LayerCount: 3

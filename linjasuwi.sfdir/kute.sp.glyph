@@ -1,9 +1,9 @@
 StartChar: kute.sp
 Encoding: 288 60960 62
 Width: 545
-Flags: HW
-HStem: 580.802 50<226.438 341.833>
-VStem: 418.039 50<310.781 489.223>
+Flags: W
+HStem: 580.802 50<226.439 341.834>
+VStem: 418.04 50<310.781 489.223>
 LayerCount: 3
 Fore
 SplineSet

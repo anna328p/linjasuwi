@@ -1,7 +1,9 @@
 StartChar: yupekosi.sp
 Encoding: 411 61083 250
 Width: 624
-Flags: HW
+Flags: W
+HStem: 78 50<201.874 382.807> 319.461 50<209.603 396.189>
+VStem: 81.0469 50<454.621 592.799> 481.047 50<224.488 309.207 458.289 592.799>
 LayerCount: 3
 Fore
 SplineSet

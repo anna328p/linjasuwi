@@ -1,7 +1,7 @@
-StartChar: wwawa.sp
+StartChar: wawa.sp
 Encoding: 372 61044 146
 Width: 790
-Flags: HW
+Flags: W
 HStem: 91.125 50<333.744 462.121> 366.125 50<333.744 462.121>
 VStem: 235.433 50<189.437 317.815> 510.433 50<189.437 317.815>
 LayerCount: 3
@@ -32,5 +32,5 @@ SplineSet
  235.432617188 163.897460938 308.202148438 91.125 397.932617188 91.125 c 0
  487.663085938 91.125 560.432617188 163.897460938 560.432617188 253.625 c 0
 EndSplineSet
-Ligature2: "sitelen pona-1" w a w a 
+Ligature2: "sitelen pona-1" w a w a
 EndChar

@@ -1,8 +1,8 @@
 StartChar: sona.sp
 Encoding: 352 61024 126
 Width: 627
-Flags: HW
-VStem: 289.757 50<408.197 432.996 582.996 607.795>
+Flags: W
+VStem: 289.758 50<408.197 432.996 582.996 607.795>
 LayerCount: 3
 Fore
 SplineSet

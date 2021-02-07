@@ -1,7 +1,7 @@
 StartChar: meso.sp
 Encoding: 393 61065 191
 Width: 649
-Flags: HW
+Flags: W
 HStem: 283 100<283.639 365.19>
 VStem: 99 50<58.201 83 583 607.799> 274.414 100<292.224 373.775> 499 50<58.201 83 583 607.799>
 LayerCount: 3

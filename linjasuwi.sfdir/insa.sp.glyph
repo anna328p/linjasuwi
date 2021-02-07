@@ -1,7 +1,7 @@
 StartChar: insa.sp
 Encoding: 271 60943 45
 Width: 732
-Flags: HW
+Flags: W
 HStem: 283 100<324.225 405.775>
 VStem: 90 50<433 457.799> 315 100<292.225 373.775> 590 50<433 457.799>
 CounterMasks: 1 70

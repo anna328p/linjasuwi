@@ -1,7 +1,8 @@
 StartChar: unu.sp
 Encoding: 412 61084 251
 Width: 463
-Flags: HW
+Flags: W
+VStem: 206 50<474.506 545.341>
 LayerCount: 3
 Fore
 SplineSet

@@ -1,9 +1,9 @@
 StartChar: tan.sp
 Encoding: 358 61030 132
 Width: 766
-Flags: HW
-HStem: 452.168 50<309.896 528.701>
-VStem: 638.434 50.002<223.483 340.507>
+Flags: W
+HStem: 452.168 50<309.897 528.702>
+VStem: 638.435 50.002<223.483 340.507>
 LayerCount: 3
 Fore
 SplineSet

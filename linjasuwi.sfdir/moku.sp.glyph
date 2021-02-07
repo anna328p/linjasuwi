@@ -1,9 +1,9 @@
 StartChar: moku.sp
 Encoding: 309 60981 83
 Width: 590
-Flags: HW
-HStem: 308 50<279.325 396.706> 379.121 50<265.61 404.822>
-VStem: 463.012 50<58.201 83>
+Flags: W
+HStem: 308 50<279.326 396.707> 379.121 50<265.611 404.823>
+VStem: 463.013 50<58.201 83>
 LayerCount: 3
 Fore
 SplineSet

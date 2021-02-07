@@ -1,7 +1,7 @@
 StartChar: mute.sp
 Encoding: 315 60987 89
 Width: 549
-Flags: HW
+Flags: W
 VStem: 99 50<58.201 83 583 607.799> 249 50<58.201 83 583 607.799> 399 50<58.201 83 583 607.799>
 CounterMasks: 1 e0
 LayerCount: 3

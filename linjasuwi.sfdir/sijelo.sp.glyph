@@ -1,7 +1,7 @@
 StartChar: sijelo.sp
 Encoding: 346 61018 120
 Width: 749
-Flags: HW
+Flags: W
 VStem: 99 50<58.201 83> 349 50<58.201 83> 599 50<58.201 83>
 CounterMasks: 1 e0
 LayerCount: 3

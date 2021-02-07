@@ -1,7 +1,8 @@
 StartChar: cartouche.sp
 Encoding: 413 61085 252
 Width: 918
-Flags: HW
+Flags: W
+HStem: -25.3438 50<100.201 125 791.668 816.467> 641.324 50<100.201 125 791.668 816.467>
 LayerCount: 3
 Fore
 SplineSet

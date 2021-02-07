@@ -1,8 +1,8 @@
 StartChar: lu.sp
 Encoding: 387 61059 185
 Width: 685
-Flags: HW
-HStem: 58 50<595.952 620.751> 558 50<595.952 620.751>
+Flags: W
+HStem: 58 50<595.951 620.75> 558 50<595.951 620.75>
 LayerCount: 3
 Fore
 SplineSet
