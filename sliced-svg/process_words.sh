@@ -4,7 +4,7 @@ set -e
 out_dir=output
 
 doc_width=10
-num_entries=$(( $doc_width * 18 ))
+num_entries=$(( $doc_width * 20 ))
 
 tile_width=20
 
@@ -35,17 +35,32 @@ gen_files () {
 }
 
 opt_files () {
+	find "$out_dir" -iname '*.svg' -exec \
+		svgo --config svgo.yml {} \+
+}
+
+conv_files () {
+	rm -f /tmp/conv.svg
+
 	for file in "$out_dir"/*.svg; do
 		[ -e "$file" ] || continue
-		svgo --config svgo.yml $file
+
+		rsvg-convert "$file" -f svg > /tmp/conv.svg
+		mv /tmp/conv.svg "$file"
 	done
 }
 
 rm -rf "$out_dir"
 mkdir -p "$out_dir"
 
-echo Generating...
+echo Generating files: 
 gen_files
 
-echo Optimizing...
+echo Converting files...
+conv_files
+
+echo Optimizing, pass 1:
+opt_files
+
+echo Optimizing, pass 2:
 opt_files
