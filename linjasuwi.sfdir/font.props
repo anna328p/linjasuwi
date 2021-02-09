@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1612574592
-ModificationTime: 1612838969
+ModificationTime: 1612857848
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -54,7 +54,7 @@ KernClass2: 3 3 "'kern' Horizontal Kerning in Latin lookup 0-1"
  5 space
  0 {} 0 {} 0 {} 0 {} 0 {} -250 {} 0 {} 0 {} -100 {}
 LangName: 1033
-Encoding: Custom
+Encoding: ISO8859-1
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48

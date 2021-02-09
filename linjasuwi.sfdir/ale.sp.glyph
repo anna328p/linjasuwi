@@ -43,6 +43,7 @@ SplineSet
  169.783203125 478 134.565429688 462.23828125 110.49609375 431.291992188 c 0
  91.2841796875 406.591796875 80 373.243164062 80 333 c 0
 EndSplineSet
+Ligature2: "sitelen pona-1" a l i 
+Ligature2: "sitelen pona-1" a l e
 LCarets2: 3 0 0 0
-Ligature2: "sitelen pona-1" a l e 
 EndChar
