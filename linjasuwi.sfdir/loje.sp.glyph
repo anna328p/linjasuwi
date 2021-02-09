@@ -1,6 +1,6 @@
 StartChar: loje.sp
 Encoding: 298 60970 72
-Width: 489
+Width: 488
 Flags: W
 HStem: 379.121 50<172.605 311.815>
 LayerCount: 3
@@ -37,5 +37,6 @@ SplineSet
  420.005859375 596.797851562 408.803710938 608 395.005859375 608 c 2
  95.005859375 608 l 2
 EndSplineSet
+LCarets2: 4 0 0 0 0
 Ligature2: "sitelen pona-1" l o j e 
 EndChar

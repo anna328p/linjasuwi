@@ -32,5 +32,6 @@ SplineSet
  122 507.646484375 172.353515625 558 234.5 558 c 0
  296.649414062 558 347 507.647460938 347 445.5 c 0
 EndSplineSet
+LCarets2: 8 0 0 0 0 0 0 0 0
 Ligature2: "sitelen pona-1" m e l i hyphen a l t 
 EndChar
