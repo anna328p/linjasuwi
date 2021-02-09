@@ -216,5 +216,5 @@ unu
 cartouche
 kamalawala
 waken
-empty
-empty
+toki-pona
+linja-suwi
