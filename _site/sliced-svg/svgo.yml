@@ -1,8 +1,0 @@
-plugins:
-  - convertShapeToPath:
-      convertArcs: true
-  - reusePaths: true
-  - mergePaths: true
-  - removeOffCanvasPaths: true
-  - removeViewBox: true
-  - removeUselessStrokeAndFill: true
