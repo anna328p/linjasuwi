@@ -224,7 +224,7 @@ jan-pona
 jan-ike
 sitelen-pona
 sitelen-sitelen
-
+interpunct
 
 
 
