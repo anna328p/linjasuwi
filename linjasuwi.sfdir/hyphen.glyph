@@ -2,17 +2,17 @@ StartChar: hyphen
 Encoding: 45 45 215
 Width: 438
 Flags: W
-HStem: 308 50<44.1976 69 369 393.802>
+HStem: 308 50<44.1976 393.802>
 LayerCount: 3
 Fore
 SplineSet
 69 358 m 2
- 55 358 44 347 44 333 c 0
- 44 319 55 308 69 308 c 2
- 369 308 l 2
- 383 308 394 319 394 333 c 0
- 394 347 383 358 369 358 c 2
- 69 358 l 2
+ 369 358 l 2
+ 383 358 394 347 394 333 c 0
+ 394 319 383 308 369 308 c 2
+ 69 308 l 2
+ 55 308 44 319 44 333 c 0
+ 44 347 55 358 69 358 c 2
 EndSplineSet
-Validated: 9
+Validated: 1
 EndChar

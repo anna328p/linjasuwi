@@ -1,0 +1,25 @@
+StartChar: te.sp
+Encoding: 429 61100 269
+Width: 392
+Flags: W
+HStem: 641 50<97 346.802>
+VStem: 47 50<391.198 641>
+LayerCount: 3
+Fore
+SplineSet
+322 641 m 2
+ 97 641 l 1
+ 97 416 l 2
+ 97 402 86 391 72 391 c 0
+ 58 391 47 402 47 416 c 2
+ 47 666 l 2
+ 47 680 58 691 72 691 c 2
+ 322 691 l 2
+ 336 691 347 680 347 666 c 0
+ 347 652 336 641 322 641 c 2
+EndSplineSet
+Validated: 1
+Kerns2: 36 2 "'kern' Horizontal Kerning in Latin lookup 0-2"
+LCarets2: 1 0
+Ligature2: "sitelen pona-1" t e
+EndChar

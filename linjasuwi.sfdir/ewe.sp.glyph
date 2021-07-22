@@ -1,0 +1,30 @@
+StartChar: ewe.sp
+Encoding: 433 61104 273
+Width: 605
+Flags: W
+LayerCount: 3
+Fore
+SplineSet
+386 62 m 2
+ 96 140 l 2
+ 87 142 80 150 78 160 c 2
+ 37 393 l 1
+ 37 407 43 416 51 420 c 0
+ 150 468 249 515 348 563 c 0
+ 352 565 355 566 359 566 c 0
+ 368 566 376 561 380 555 c 2
+ 566 282 l 2
+ 569 278 570 273 570 268 c 0
+ 570 262 568 256 564 252 c 2
+ 412 70 l 2
+ 406 63 396 59 386 62 c 2
+90 383 m 1
+ 125 184 l 1
+ 384 115 l 1
+ 514 270 l 1
+ 350 509 l 1
+ 90 383 l 1
+EndSplineSet
+Validated: 1
+Ligature2: "sitelen pona-1" e w e 
+EndChar

@@ -1,0 +1,24 @@
+StartChar: to.sp
+Encoding: 430 61101 270
+Width: 375
+Flags: W
+HStem: -25 50<31.1976 281>
+VStem: 281 50<25 274.802>
+LayerCount: 3
+Fore
+SplineSet
+56 25 m 2
+ 281 25 l 1
+ 281 250 l 2
+ 281 264 292 275 306 275 c 0
+ 320 275 331 264 331 250 c 2
+ 331 -0 l 2
+ 331 -14 320 -25 306 -25 c 2
+ 56 -25 l 2
+ 42 -25 31 -14 31 -0 c 0
+ 31 14 42 25 56 25 c 2
+EndSplineSet
+Validated: 1
+LCarets2: 1 0
+Ligature2: "sitelen pona-1" t o
+EndChar

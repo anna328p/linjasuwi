@@ -2,17 +2,17 @@ StartChar: bar
 Encoding: 124 124 244
 Width: 148
 Flags: W
-VStem: 49 50<32.1976 57 609 633.802>
+VStem: 49 50<32.1976 633.802>
 LayerCount: 3
 Fore
 SplineSet
 99 609 m 2
- 99 623 88 634 74 634 c 0
- 60 634 49 623 49 609 c 2
- 49 57 l 2
- 49 43 60 32 74 32 c 0
- 88 32 99 43 99 57 c 2
- 99 609 l 2
+ 99 57 l 2
+ 99 43 88 32 74 32 c 0
+ 60 32 49 43 49 57 c 2
+ 49 609 l 2
+ 49 623 60 634 74 634 c 0
+ 88 634 99 623 99 609 c 2
 EndSplineSet
-Validated: 9
+Validated: 1
 EndChar

@@ -4,7 +4,7 @@ set -e
 out_dir=output
 
 doc_width=10
-num_entries=$(( $doc_width * 22 ))
+nnum_entries=$(( $doc_width * 22 ))
 
 tile_width=20
 
@@ -36,7 +36,7 @@ gen_files () {
 
 opt_files () {
 	find "$out_dir" -iname '*.svg' -exec \
-		svgo --config svgo.yml {} \+
+		svgo --config svgo.config.js {} \+
 }
 
 conv_files () {
