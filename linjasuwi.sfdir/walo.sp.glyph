@@ -6,6 +6,10 @@ HStem: 58 50<138 557> 588 20G<342 352>
 LayerCount: 3
 Fore
 SplineSet
+557 108 m 1
+ 347 527 l 1
+ 138 108 l 1
+ 557 108 l 1
 97 58 m 2
  83 58 72 70 72 83 c 0
  72 87 73 90 75 94 c 2
@@ -30,10 +34,6 @@ SplineSet
  621 90 622 87 622 83 c 0
  622 70 611 58 597 58 c 2
  97 58 l 2
-557 108 m 1
- 347 527 l 1
- 138 108 l 1
- 557 108 l 1
 EndSplineSet
 Validated: 1
 Ligature2: "sitelen pona-1" w a l o 

@@ -5,6 +5,12 @@ Flags: W
 LayerCount: 3
 Fore
 SplineSet
+90 383 m 1
+ 125 184 l 1
+ 384 115 l 1
+ 514 270 l 1
+ 350 509 l 1
+ 90 383 l 1
 386 62 m 2
  96 140 l 2
  87 142 80 150 78 160 c 2
@@ -18,12 +24,6 @@ SplineSet
  570 262 568 256 564 252 c 2
  412 70 l 2
  406 63 396 59 386 62 c 2
-90 383 m 1
- 125 184 l 1
- 384 115 l 1
- 514 270 l 1
- 350 509 l 1
- 90 383 l 1
 EndSplineSet
 Validated: 1
 Ligature2: "sitelen pona-1" e w e 

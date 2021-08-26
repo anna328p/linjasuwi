@@ -8,11 +8,6 @@ CounterMasks: 1 1c
 LayerCount: 3
 Fore
 SplineSet
-148 558 m 1
- 148 258 l 1
- 498 258 l 1
- 498 558 l 1
- 148 558 l 1
 148 208 m 1
  148 83 l 2
  148 69 137 58 123 58 c 0
@@ -31,6 +26,11 @@ SplineSet
  309 58 298 69 298 83 c 2
  298 208 l 1
  148 208 l 1
+148 558 m 1
+ 148 258 l 1
+ 498 258 l 1
+ 498 558 l 1
+ 148 558 l 1
 EndSplineSet
 Validated: 1
 Ligature2: "sitelen pona-1" l e n 

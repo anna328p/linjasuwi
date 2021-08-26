@@ -7,6 +7,11 @@ VStem: 98 50<108 558> 498 50<108 558>
 LayerCount: 3
 Fore
 SplineSet
+148 108 m 1
+ 498 108 l 1
+ 498 558 l 1
+ 148 558 l 1
+ 148 108 l 1
 123 608 m 2
  523 608 l 2
  537 608 548 597 548 583 c 2
@@ -16,11 +21,6 @@ SplineSet
  109 58 98 69 98 83 c 2
  98 583 l 2
  98 597 109 608 123 608 c 2
-148 108 m 1
- 498 108 l 1
- 498 558 l 1
- 148 558 l 1
- 148 108 l 1
 EndSplineSet
 Validated: 1
 Ligature2: "sitelen pona-1" l i p u
