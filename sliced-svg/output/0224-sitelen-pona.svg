@@ -1,1 +1,64 @@
-<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000px" height="1000px" version="1.1"><g id="surface1"><path style="fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:4" d="M 75 455 L 73 452 " transform="matrix(50,0,0,50,-4000,-22000)"/><path style="fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:4" d="M 88 450.809219 C 88 451.91375 88.895469 452.809219 90 452.809219 C 91.104609 452.809219 92 451.91375 92 450.809219 " transform="matrix(50,0,0,50,-4000,-22000)"/><path style="fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:4" d="M 85 445 L 95 445 L 95 455 L 85 455 Z M 85 445 " transform="matrix(50,0,0,50,-4000,-22000)"/><path style="stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1" d="M551.222656 400C551.222656 427.613281 528.835938 450 501.222656 450 473.609375 450 451.222656 427.613281 451.222656 400 451.222656 372.386719 473.609375 350 501.222656 350 528.835938 350 551.222656 372.386719 551.222656 400zM423.699219 400C423.699219 427.613281 401.3125 450 373.699219 450 346.085938 450 323.699219 427.613281 323.699219 400 323.699219 372.386719 346.085938 350 373.699219 350 401.3125 350 423.699219 372.386719 423.699219 400zM683.699219 400C683.699219 427.613281 661.3125 450 633.699219 450 606.085938 450 583.699219 427.613281 583.699219 400 583.699219 372.386719 606.085938 350 633.699219 350 661.3125 350 683.699219 372.386719 683.699219 400zM683.699219 400"/></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1000px"
+   height="1000px"
+   version="1.1"
+   id="svg11"
+   sodipodi:docname="0224-sitelen-pona.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <metadata
+     id="metadata17">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs15" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="893"
+     inkscape:window-height="480"
+     id="namedview13"
+     showgrid="false"
+     inkscape:zoom="0.24711111"
+     inkscape:cx="500"
+     inkscape:cy="500"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg11" />
+  <g
+     id="g877">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+       d="m 400,540.461 c 0,55.2265 44.77345,100 100,100 55.23045,0 100,-44.7735 100,-100"
+       id="path4" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+       d="M 250,250 H 750 V 750 H 250 Z m 0,0"
+       id="path6" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 551.22266,400 c 0,27.61328 -22.38672,50 -50,50 -27.61329,0 -50,-22.38672 -50,-50 0,-27.61328 22.38671,-50 50,-50 27.61328,0 50,22.38672 50,50 z m -127.52344,0 c 0,27.61328 -22.38672,50 -50,50 -27.61328,0 -50,-22.38672 -50,-50 0,-27.61328 22.38672,-50 50,-50 27.61328,0 50,22.38672 50,50 z m 260,0 c 0,27.61328 -22.38672,50 -50,50 -27.61328,0 -50,-22.38672 -50,-50 0,-27.61328 22.38672,-50 50,-50 27.61328,0 50,22.38672 50,50 z m 0,0"
+       id="path8" />
+  </g>
+</svg>
