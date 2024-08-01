@@ -1,1 +1,60 @@
-<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000px" height="1000px" version="1.1"><g id="surface1"><path style="fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:4" d="M 10 256.058359 L 10 251.558359 L 7 254.558359 L 10 251.558359 L 13 254.558359 L 10 251.558359 L 10 249.558359 " transform="matrix(50,0,0,50,0,-12000)"/><path style="fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:4" d="M12 245.883359C12 246.987891 11.104609 247.883359 10 247.883359 8.895469 247.883359 8 246.987891 8 245.883359 8 244.77875 8.895469 243.883359 10 243.883359 11.104609 243.883359 12 244.77875 12 245.883359zM7.766563 250.116719C7.766563 251.221328 6.871172 252.116719 5.766563 252.116719 4.662031 252.116719 3.766563 251.221328 3.766563 250.116719 3.766563 249.012188 4.662031 248.116719 5.766563 248.116719 6.871172 248.116719 7.766563 249.012188 7.766563 250.116719zM16.233281 250.116719C16.233281 251.221328 15.337813 252.116719 14.233281 252.116719 13.128672 252.116719 12.233281 251.221328 12.233281 250.116719 12.233281 249.012188 13.128672 248.116719 14.233281 248.116719 15.337813 248.116719 16.233281 249.012188 16.233281 250.116719zM16.233281 250.116719" transform="matrix(50,0,0,50,0,-12000)"/></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1000px"
+   height="1000px"
+   version="1.1"
+   id="svg7"
+   sodipodi:docname="0120-nasin-kulupu.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <metadata
+     id="metadata13">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs11" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="893"
+     inkscape:window-height="480"
+     id="namedview9"
+     showgrid="false"
+     inkscape:zoom="0.24711111"
+     inkscape:cx="500"
+     inkscape:cy="500"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg7" />
+  <g
+     id="g866">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+       d="m 500.0039,804.375 v -225 l -150,150 150,-150 150,150 -150,-150 v -100"
+       id="path2" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:50;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+       d="m 600.0039,295.625 c 0,55.2265 -44.76955,100 -100,100 -55.22655,0 -100,-44.7735 -100,-100 0,-55.2305 44.77345,-100 100,-100 55.23045,0 100,44.7695 100,100 z M 388.33205,507.293 c 0,55.2305 -44.76955,100 -100,100 -55.2266,0 -100,-44.7695 -100,-100 0,-55.2265 44.7734,-100 100,-100 55.23045,0 100,44.7735 100,100 z m 423.3359,0 c 0,55.2305 -44.7734,100 -100,100 -55.23045,0 -100,-44.7695 -100,-100 0,-55.2265 44.76955,-100 100,-100 55.2266,0 100,44.7735 100,100 z m 0,0"
+       id="path4" />
+  </g>
+</svg>

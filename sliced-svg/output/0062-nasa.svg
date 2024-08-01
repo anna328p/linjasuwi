@@ -1,1 +1,56 @@
-<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000px" height="1000px" version="1.1"><g id="surface1"><path style="fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:4" d="M 51.097422 130.66 C 51.36875 131.227656 50.745625 131.749453 50.234922 131.807734 C 49.256719 131.919453 48.537891 130.977656 48.540391 130.071406 C 48.544063 128.703984 49.854141 127.751875 51.150547 127.830078 C 52.904688 127.935937 54.098125 129.629141 53.938594 131.314063 C 53.735937 133.454688 51.65375 134.892422 49.580859 134.648984 C 47.05375 134.352109 45.370234 131.877891 45.699141 129.417422 C 46.088672 126.503672 48.956484 124.573594 51.804531 124.988906 C 52.403359 125.076172 52.987266 125.26 53.529141 125.529141 " transform="matrix(50,0,0,50,-2000,-6000)"/></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1000px"
+   height="1000px"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="0062-nasa.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <metadata
+     id="metadata11">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="893"
+     inkscape:window-height="480"
+     id="namedview7"
+     showgrid="false"
+     inkscape:zoom="0.24711111"
+     inkscape:cx="500"
+     inkscape:cy="500"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg5" />
+  <g
+     id="g858">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+       d="m 564.59666,542.78703 c 13.5664,28.383 -17.58985,54.4725 -43.125,57.3865 -48.91015,5.586 -84.85155,-41.5035 -84.72655,-86.816 0.185,-68.3715 65.6875,-115.977 130.5078,-112.0665 87.70705,5.293 147.3789,89.953 139.40235,174.199 -10.13285,107.0315 -114.2422,178.918 -217.88675,166.746 -126.35545,-14.8435 -210.53125,-138.5545 -194.0859,-261.578 19.47655,-145.6875 162.86715,-242.1915 305.2695,-221.4255 29.9414,4.365 59.13675,13.5545 86.2305,27.0115"
+       id="path2" />
+  </g>
+</svg>
