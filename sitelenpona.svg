@@ -3762,6 +3762,33 @@
          rx="0.85938489"
          ry="0.86024243" />
     </g>
+    <g
+       id="g28920-3"
+       style="display:inline;mix-blend-mode:normal"
+       transform="translate(-120,60)">
+      <g
+         id="g4686-3-6"
+         style="display:inline"
+         transform="translate(60,280)">
+        <rect
+           style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1808-6-7"
+           width="8"
+           height="10"
+           x="106"
+           y="165" />
+      </g>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 174,447.63832 c -3.99997,-0.66986 -5.40113,-0.0226 -8,1.95091"
+         id="path9435-5"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 166,450 c 2.22441,1.11883 4.00003,2.79626 5.40274,5"
+         id="path9503-3"
+         sodipodi:nodetypes="cc" />
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
